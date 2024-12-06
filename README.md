@@ -9,6 +9,9 @@
 - Java
 - Spring Boot
 - Javascript
+- CSS
+- React
+  
 
 
 <!--
