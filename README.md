@@ -6,7 +6,7 @@
 
 ## ✨Tech Stack✨
 - Java
-- -Spring Boot
+- Spring Boot
 - Javascript
 
 
