@@ -1,7 +1,8 @@
 ## ✨About Me✨
-💻Software Engineer with experience in Java, Spring Boot, React JS
+💻 Software Engineer with experience in Java, Spring Boot, React JS
 
  🌱 I’m currently learning  Python.
+ 
  ⚡ Fun fact:   I enjoy gardening and hanging out with my cats :black_cat: :black_cat: 🐈
 
 ## ✨Tech Stack✨
