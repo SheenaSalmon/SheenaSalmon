@@ -8,6 +8,7 @@
 ## ✨Tech Stack✨
 - Java
 - Spring Boot
+- SQL
 - Javascript
 - CSS
 - React
